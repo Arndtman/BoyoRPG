@@ -1,0 +1,63 @@
+﻿Heading: Release Plan of BoyoRPG for Gold Team. This is release one. Release date is June. 
+
+
+(note: we weren’t sure if a release plan was required for each sprint or just the final release, nevertheless this document explains the plan for each release corresponding to a sprint as well as the actual release.)
+
+
+High level goals: Develop an aesthetically acceptable RPG written in Python. For release 1 (at the end of sprint 1) we want to be able to generate a world and to be able to enter/exit worlds. After we want to include boundaries on the world's along with interactions. Next we want to develop some sort of quest style system. Finally we want to develop a final boss fight that is dependent on the inventory of the player. 
+
+
+User Stories: 
+1. Generate the starting world
+2. Generate/connect other maps 
+3. Boundaries on each map
+4. Interactions on each map
+5. Spawn mobs
+6. Mob attack, movement, and AI
+7. Player stats 
+8. Modifiable inventory 
+9. Final boss 
+
+
+Sprint 1:
+1.  3 As a player I want to see an initial world
+2.  3 As a player I want to see other worlds
+3.  3 As a player I want my character to spawn on world with basic controls
+4.  13 As a player I want enter to other worlds
+5.  5 As a player I want to see basic menu functionality (main/pause)
+6.  5 As a player I want to see my player stats (leveling system)
+
+
+Sprint 2: 
+1. 13 As a player I want to have defined and implemented boundaries for every map
+2. 5 As a player I want to see established mob spawns for every map
+3. 8 As a player I want to have a modify player inventory
+4. 5 As a player I want to visit an ingame store system
+5. 3 As a player I want more maps
+
+
+Sprint 3: 
+1. 3 As a player I want more maps
+2. 5 As a player I want to see the first quests
+3. 8 As a player I want NPCs with dialogue
+4. 8 As a player I want to see added  side quests
+5. 8 As a player I want to see Implemented bosses (mini bosses)
+
+
+Sprint 4: 
+1. 3 As a player I want even more maps
+2. 8 As a player I want an arena mode
+3. 13 As a player I want to see an added skill tree
+4. 5 As a player I want to see a Final Boss
+
+
+
+
+Product backlog: not sure what goes here tbh. 
+1. As a player I want a greater questline/main story
+2. As a player I want uniform art styles
+3. As a player I want Local Coop
+4. As a player I want Controller Support
+
+
+Project presentation: See the template for the initial presentation in the Resources.

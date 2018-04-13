@@ -1,0 +1,82 @@
+﻿Heading: Sprint 1: Release Plan of BoyoRPG for Gold Team. This is release one. Sprint 1 ends April 24th. 
+
+
+Heading: Document name ("Sprint {number} Plan"), product name, team name, sprint completion date, revision number & revision date.
+
+
+Goal: Generate the starting world and allow access to other worlds. Possibly implement player stats and menu functionality. 
+
+
+Task Listing: 
+1. Create initial world as a png
+2. Draw other worlds via GIMP/paint etc 
+3. Generate character on world/basic controls
+4. Link maps ingame 
+5. Create basic menu functionality
+6. Implement player stats 
+
+
+Sprint 1:
+1.  User story 1: As a player I want to see an initial world so I can start playing the game
+   1. Create initial world PNG (30 minutes) 
+   2. Blip world (30 minutes) 
+1.  User story 2: As a player I want to see other worlds in the filesystem, so I can sense variety in the game
+   1. Create multiple world PNG’s (2 hours) 
+1. User story 3: As a player I want my character to spawn on world with basic controls so I can actually play the game
+   1. Create character controls (1 hour)
+   2. Spawn player on new game (15 minutes) 
+1.  User story 4: As a player I want enter to other worlds to feel variety in the game
+   1. Link other worlds to initial world (4-8 hours)
+1. User story 5: As a player I want to see basic menu functionality (main/pause) since it gives better game flow
+   1. Freeze gamestate (30min) 
+   2. Create menu (1 hour) 
+1.  User story 6: As a player I want to see my player stats (leveling system) since this makes gameplay more sensible. 
+   1. Implement player stats in class (2 hour) 
+   2. Implement experience meter for player (30min)
+   3. Determine experience gained from killing enemies  (10min)
+   4. Create a menu to view a players stats  (30min) 
+
+
+
+
+
+
+Team Roles: 
+Scrum: Diego
+Developers: Axel, Alex, Jack, Kobe
+Artist: Axel, Alex, Jack, Kobe, Diego
+
+
+Initial task assignment: 
+Design a map: Everyone 
+World generation: Everyone
+Player controls: Everyone
+Menu design/implementation: Alex, Diego 
+
+
+Initial Burnup Chart: 
+  
+
+
+
+
+
+Initial scrum board: 
+(We weren’t sure if anything goes here so we left it blank since it asks for a repeat of our sprint plan essentially) 
+
+
+Initial scrum board: Also known as a task board, the scrum board is a physical board and labeled as such with sprint number and project name and located in the lab. This board has four columns, titled user stories, tasks not started, tasks in progress, and tasks completed. Index cards or post-it notes representing the user stories and the tasks for this sprint should be placed in the user stories, tasks not started, and tasks in progress columns. Tasks associated with a user story should be placed in the same row as the user story. 
+
+
+
+
+
+
+
+
+Scrum times:
+
+
+Sunday- 3:00 PM 
+Wednesday- 5:30 PM, E2 340A. TA meeting
+Thursday- 6:00 PM
