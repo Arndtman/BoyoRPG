@@ -43,8 +43,8 @@ Sprint 1:
 
 Team Roles: 
 Scrum: Diego
-Developers: Axel, Alex, Jack, Kobe
-Artist: Axel, Alex, Jack, Kobe, Diego
+Developers: Axel, Alex, Jack
+Artist: Axel, Alex, Jack, Diego
 
 
 Initial task assignment: 
