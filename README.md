@@ -10,7 +10,7 @@ These are not tested with any other versions of python.
 PATCH-00
 Basic Map/player generation. Basic movement/controls. Basic entry/exit functionality.
 
-PATcH-001
+PATCH-001
 Added menus, buttons, theme music, better movement. 
 
 Better Code Structure.
