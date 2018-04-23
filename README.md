@@ -5,6 +5,8 @@ These files require PYGAME module installed and recommend python 3.x.
 
 These are not tested with any other versions of python. 
 
+ART CREDITS WILL BE GIVEN ON FINAL RELEASE!
+
 ===============CHANGE LOG=================
 
 PATCH-00
