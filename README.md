@@ -14,7 +14,7 @@ PATCH-001
 Added menus, buttons, theme music, better movement. 
 Better Code Structure.
 
-PATCH-01
+PATCH-01 (Animation Testing) 
 Added, Attacks: Left Moue, House Entry: Left Mouse, all Paths and Houses are linked (except for homeTown castle) :( 
 Generic attack sounds
 
