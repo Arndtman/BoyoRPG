@@ -12,5 +12,10 @@ Basic Map/player generation. Basic movement/controls. Basic entry/exit functiona
 
 PATCH-001
 Added menus, buttons, theme music, better movement. 
-
 Better Code Structure.
+
+PATCH-01
+Added, Attacks: Left Moue, House Entry: Left Mouse, all Paths and Houses are linked (except for homeTown castle) :( 
+Generic attack sounds
+
+
