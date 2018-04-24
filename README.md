@@ -9,6 +9,8 @@ ART CREDITS WILL BE GIVEN ON FINAL RELEASE!
 
 ===============CHANGE LOG=================
 
+===SPRING 1===
+
 PATCH-00
 Basic Map/player generation. Basic movement/controls. Basic entry/exit functionality.
 
