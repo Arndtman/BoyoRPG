@@ -1,0 +1,91 @@
+
+Visit the google doc with your UCSC email to view this in full:
+https://docs.google.com/document/d/113SYC65DJSsbaHUX_JLStvnXrqXhGt_chTdmYWicCaI/edit?usp=sharing 
+
+
+Heading: Sprint 2: Release Plan of BoyoRPG for Gold Team. This is release one. Sprint 2 ends May 8th. 
+
+Goal: Generate the boundaries and mob spawns for each map as well as include a baseline for the in-game player inventory. 
+
+Task Listing: 
+21 As a player I want to have defined and implemented boundaries for every map
+ 8 As a player I want to see established mob spawns for every map
+8 As a player I want to have a modify player inventory
+
+
+Sprint 2:
+21 As a player I want to have defined and implemented boundaries for every map
+Create boundary datasets for each map 			 (16 hours) 
+Create the switch cases for each map    			 (4 hours) 
+8 As a player I want to see established mob spawns for every map
+Create base enemy class 					(4 hours) 
+Move to player function  					(5 hours) 
+Determine where enemies should spawn 			(9 hours) 
+8 As a player I want to have a modify player inventory
+Modify current inventory menu to accept and display items	(7 hours)
+Move and drop items						(3 hours)
+Updated health bar and stats					(2 hours)
+Use/equip items (interact with c. above)			(6 hours)
+
+
+Team Roles: 
+Scrum: Jack
+Developers: Axel, Alex, Jack
+Artist: Axel, Alex, Jack, Diego
+
+Initial task assignment: 
+
+Inventory: 	Diego
+Mob spawn:	Jack
+Boundaries:	Axel / Alex
+
+
+
+
+
+
+Initial Burnup Chart: 
+
+
+Initial scrum board: 
+User Stories
+To Do
+In Progress
+Done
+Boundaries
+Create boundary datasets for each map, 
+Create the switch cases for each map 
+
+Create boundary datasets for each map, 
+
+
+
+Inventory
+Move/drop items
+Have live health bar
+Items interact with player and stats (equip/ use items)
+
+Select/deselect slots
+
+
+
+Mob Spawns
+Player seeking mobs
+Damage and take damage
+Mob placement
+Create enemy objects
+Drop items
+
+Player seeking mobs
+Damage and take damage
+
+
+Create enemy objects
+
+
+
+Scrum times:
+Sunday- 3:00 PM 
+Wednesday-6:00 PM
+Thursday-9:00 AM, E2 340A. TA meeting
+
