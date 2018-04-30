@@ -28,8 +28,8 @@ Restructured Code
 Added HP bars, Inventory shell, rough boundary checking (broken),  and loading screen
 
 PATCH-03
-Optimized code in BoyoRPG.py and PlayerTest.py. Also Added MapLink.py for better structure
-Basic boundaries, deathscreen/restart, menu "flare", fixed infinite attack bug, and fixed some inventory bugs. 
+Optimized code in BoyoRPG.py and PlayerTest.py. Also Added MapLink.py for better structure.  
+Added basic boundaries, deathscreen/restart, menu "flare", fixed infinite attack bug, and fixed some inventory bugs. 
 Added player movement animations
 Also restructured code to run from main(). 
 
