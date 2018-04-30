@@ -7,6 +7,8 @@ These are not tested with any other versions of python.
 
 ART CREDITS WILL BE GIVEN ON FINAL RELEASE!
 
+Patches are in ascending order. Look for the most up to date patch/version. 
+
 ===============CHANGE LOG=================
 
 ===SPRINT 1===
