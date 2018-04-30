@@ -21,7 +21,7 @@ Better Code Structure.
 PATCH-01 (Animation Testing) 
 Added, Attacks: Left Mouse, House Entry: Left Mouse, all Paths and Houses are linked (except for homeTown castle), Generic attack sounds
 
-PATH-02
+PATCH-02
 Restructured Code 
 Added HP bars, Inventory shell, rough boundary checking (broken),  and loading screen
 
