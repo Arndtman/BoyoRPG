@@ -1,6 +1,8 @@
 # BoyoRPG
 
-These files require PYGAME module installed and recommend python 3.x. 
+These files CURRENTLY require PYGAME module installed and recommend python 3.x. 
+
+Final editions will NOT require pygame OR python. 
 
 These are not tested with any other versions of python. 
 
