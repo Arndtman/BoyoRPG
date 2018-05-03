@@ -4,11 +4,11 @@ These files CURRENTLY require PYGAME module installed and recommend PYTHON 3.x.
 
 There are some bugs because it is currently in development. 
 
-Final editions will NOT require pygame OR python. 
+Final editions will NOT require pygame NOR python. 
 
 These are not tested with any other versions of python. 
 
-To play, open a version (i.e 03) and run BoyoRPG.py
+To play, open a version (i.e 03 folder) and run BoyoRPG.py
 
 ART CREDITS WILL BE GIVEN ON FINAL RELEASE!
 
