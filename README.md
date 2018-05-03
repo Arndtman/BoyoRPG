@@ -5,6 +5,8 @@ These files require PYGAME module installed and recommend python 3.x.
 
 These are not tested with any other versions of python. 
 
+To play, open a version (i.e 03) and run BoyoRPG.py
+
 ART CREDITS WILL BE GIVEN ON FINAL RELEASE!
 
 Patches are in ascending order. Look for the most up to date patch/version. 
