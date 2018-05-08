@@ -40,3 +40,7 @@ Added basic boundaries, deathscreen/restart, menu "flare", fixed infinite attack
 Added player movement animations
 Also restructured code to run from main(). 
 
+PATCH-035
+Added Mobs (EnemyTest.py)
+Fixed Inventory Bugs
+
