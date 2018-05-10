@@ -1,0 +1,67 @@
+LINK FOR BURNUP CHART/SCRUM BOARD: https://docs.google.com/document/d/1ibBuPLN5GzNmCiGpIp7c_7m_JZaADvSGjPema84M2uM/edit
+
+Heading: Sprint 3: Release Plan of BoyoRPG for Gold Team. This is release Three. Sprint 3 ends May 22th. 
+
+Goal: Implement Story features, stats, and solidify mob generation/movement. 
+
+Task Listing: 
+13 As a player I want to see the first quests or some concept of a story 
+Implement a dialogue feature
+Implement pygame events 
+8 As a player I want to interact with the mobs
+Determine collision of mobs/mob attacks towards player 
+Mobs and other mobs
+
+
+Sprint 3:
+11 As a player I want to be able to complete main and sides quests
+Create a story and substories					(1 hour) 
+Create conditions for which quests can be completed   	(6 hours) 
+Establish and give rewards for each quest 			(4 hours)
+
+8 As a player I want to see mini bosses added to maps
+Create a boss class from the enemy class 			(4 hours) 
+Create and spawn bosses on maps 				(5 hours) 
+Determine reward for killing a boss	 			(9 hours) 
+
+8 As a player I want to interact with NPCs
+General dialogue and trigger side quests			(7 hours)
+Working shops						(3 hours)
+Acquire items from shops/chests 				(4 hours)
+
+
+8 As a player I want to fight minibosses
+Modify a boosted mob class					(4 hours)
+Have bounds checking					(4 hours)
+Have unique attack pattern?					(6 hours)
+
+
+Team Roles: 
+Scrum Master: Jack
+Developers: Axel, Alex, Jack
+Artist: Axel, Alex, Jack, Diego
+
+Initial task assignment: 
+
+NPC and Dialogue: 	Diego
+Main and Side Quests: Jack / Axel
+Mini bosses:	Alex
+
+
+
+
+
+
+Initial Burnup Chart: 
+https://docs.google.com/document/d/1ibBuPLN5GzNmCiGpIp7c_7m_JZaADvSGjPema84M2uM/edit
+
+Initial scrum board: 
+https://docs.google.com/document/d/1ibBuPLN5GzNmCiGpIp7c_7m_JZaADvSGjPema84M2uM/edit
+
+
+Scrum times:
+Sunday- 3:00 PM 
+Wednesday-6:00 PM
+Thursday-9:00 AM, E2 340A. TA meeting
+
+
