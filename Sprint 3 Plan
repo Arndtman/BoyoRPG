@@ -14,32 +14,33 @@ Mobs and other mobs
 
 
 Sprint 3:
-11 As a player I want to be able to complete main and sides quests
+11 As a player I want to be able to complete main and sides quests to have some game interaction
 Create a story and substories					(1 hour) 
 Create conditions for which quests can be completed   	(6 hours) 
 Establish and give rewards for each quest 			(4 hours)
 
-8 As a player I want to see mini bosses added to maps
+8 As a player I want to see mini bosses added to maps because I want to have a challenge between fighting mobs and the final boss
 Create a boss class from the enemy class 			(4 hours) 
 Create and spawn bosses on maps 				(5 hours) 
 Determine reward for killing a boss	 			(9 hours) 
 
-8 As a player I want to interact with NPCs
+8 As a player I want to interact with NPCs, so I can buy potions and read dialogue
 General dialogue and trigger side quests			(7 hours)
 Working shops						(3 hours)
 Acquire items from shops/chests 				(4 hours)
 
-
-8 As a player I want to fight minibosses
-Modify a boosted mob class					(4 hours)
-Have bounds checking					(4 hours)
-Have unique attack pattern?					(6 hours)
 
 
 Team Roles: 
 Scrum Master: Jack
 Developers: Axel, Alex, Jack
 Artist: Axel, Alex, Jack, Diego
+
+Initial task assignment: 
+
+NPC and Dialogue: 	Diego
+Main and Side Quests: Jack / Axel
+Mini bosses:	Alex
 
 Initial task assignment: 
 
