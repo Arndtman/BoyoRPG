@@ -263,7 +263,6 @@ def links(pInst, wInst):
             wInst.Map = house1
             pInst.x = 245
             pInst.y = 465
-            eMove(playEnemy, 10000, 150999)
             currentMapID = house1ID
         if 550 + 30 >= pInst.x >= 550 and 335 + 15 > pInst.y >= 335 and click[0] == 1:
             wInst.Map = house1Flip
