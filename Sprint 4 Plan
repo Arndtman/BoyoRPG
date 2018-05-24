@@ -5,32 +5,31 @@ Heading: Sprint 4: Release Plan of BoyoRPG for Gold Team. This is release Four. 
 Goal: Finalize first quests, NPC interactions, finalize boundaries, store system?, Arena?
 
 Task Listing: 
-11 As a player I want to see the first quests or some concept of a story 
+11 As a player I want to see the first quests or some concept of a story, so I can play the game.
 Implement a dialogue feature
 Implement pygame events 
-8 As a player I want to interact with the mobs
+8 As a player I want to interact with the mobs, so I can get quests/items 
 Determine collision of mobs/mob attacks towards player 
 Mobs and other mobs
 Sprint 4:
-11 As a player I want to see finalized and developed quests 
+11 As a player I want to see finalized and developed quests, so I can acquire items. 
 Introduce new quest types                 			(2 hour) 
 See a clear indicator of quest completion                  	(6 hours) 
 Establish and give rewards for each quest 			(4 hours)
 
-As a player I want to interact with NPC’s	
+As a player I want to interact with NPC’s, so I can pick up quests
 Create NPC dialogue						(1 hour)
 Give Quests to player						(2 hours)
 Show/Do story events?					(4 hours)
 (Maybe) 
-8 As a player I potentially want a store system                                (9 Hours) 
+8 As a player I potentially want a store system to buy potions          (9 Hours) 
 Define store NPC in game	
 Store Interaction window 
 Add/Remove from player inventory 
-11 As a player I potentially want an endgame Area mode.              (8 Hours) 
-Create new map
+11 As a player I potentially want an endgame Area mode so we can have endgame content.        								(8 Hours) 
+Create new map                                                                  
 Spawn a lot of mobs randomly 
 Create level difficulty increase mechanic 
-
 
 
 Team Roles: 
