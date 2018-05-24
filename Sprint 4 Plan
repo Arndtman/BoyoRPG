@@ -1,0 +1,85 @@
+Doc Link: https://docs.google.com/document/d/1XlVs-FJu_adeKGhsrFBD_yLSEyyg87-43IzLo8qlB6c/edit?usp=sharing
+
+Heading: Sprint 4: Release Plan of BoyoRPG for Gold Team. This is release Four. Sprint 4 ends June 5th. 
+
+Goal: Finalize first quests, NPC interactions, finalize boundaries, store system?, Arena?
+
+Task Listing: 
+11 As a player I want to see the first quests or some concept of a story 
+Implement a dialogue feature
+Implement pygame events 
+8 As a player I want to interact with the mobs
+Determine collision of mobs/mob attacks towards player 
+Mobs and other mobs
+Sprint 4:
+11 As a player I want to see finalized and developed quests 
+Introduce new quest types                 			(2 hour) 
+See a clear indicator of quest completion                  	(6 hours) 
+Establish and give rewards for each quest 			(4 hours)
+
+As a player I want to interact with NPC’s	
+Create NPC dialogue						(1 hour)
+Give Quests to player						(2 hours)
+Show/Do story events?					(4 hours)
+(Maybe) 
+8 As a player I potentially want a store system                                (9 Hours) 
+Define store NPC in game	
+Store Interaction window 
+Add/Remove from player inventory 
+11 As a player I potentially want an endgame Area mode.              (8 Hours) 
+Create new map
+Spawn a lot of mobs randomly 
+Create level difficulty increase mechanic 
+
+
+
+Team Roles: 
+Scrum Master: Axel
+Developers: Axel, Alex, Jack
+Artist: Axel, Alex, Jack, Diego
+
+Initial task assignment: 
+NPC: Diego
+Quests: Jack/Axel
+Arena: Alex
+
+Initial Burnup Chart: 
+https://docs.google.com/document/d/1XlVs-FJu_adeKGhsrFBD_yLSEyyg87-43IzLo8qlB6c/edit?usp=sharing
+
+Initial scrum board: 
+User Stories
+To Do
+In Progress
+Done
+Quests
+Different quest types
+Rewards for completing quests 
+Have NPCs that start quests
+
+List item rewards for quests
+
+
+
+NPC
+Create a shop system
+Create general dialogue for NPCs
+Have NPCs that start quests
+
+
+
+
+
+Area mode
+Create new map
+Spawn a lot of mobs randomly 
+Create level difficulty increase mechanic 
+
+
+
+
+
+
+Scrum times:
+Sunday- 3:00 PM 
+Wednesday-6:00 PM
+Thursday-9:00 AM, E2 340A. TA meeting
