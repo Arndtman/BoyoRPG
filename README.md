@@ -2,6 +2,10 @@
 
 These files CURRENTLY require PYGAME module installed and recommend PYTHON 3.x. 
 
+To Install PYGAME: 
+
+python3 -m pip install -U pygame --user
+
 There are some bugs because it is currently in development. 
 
 Final editions will NOT require pygame NOR python. 
