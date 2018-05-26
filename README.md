@@ -52,5 +52,5 @@ Fixed Inventory Bugs
 
 PATCH-036
 Added BossTest for the (current) final boss, different music for different maps, and modified existing maps. 
-*QUests/NPC interactions were backlogged to sprint 4 due to not meeting done criteria
+*Quests/NPC interactions were backlogged to sprint 4 due to not meeting done criteria*
 
