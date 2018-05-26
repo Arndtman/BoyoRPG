@@ -48,3 +48,8 @@ PATCH-035
 Added Mobs (EnemyTest.py)
 Fixed Inventory Bugs
 
+===SPRINT 3===
+
+PATCH-036
+Added BossTest for the (current) final boss, different music for different maps, and modified existing maps. 
+
