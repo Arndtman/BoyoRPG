@@ -14,12 +14,13 @@ Actions to start doing: N/A We moved on to sprint 2 ahead of schedule.
 Actions to keep doing: Quality Scrum meetings, good code planning/prototyping, and good code design. We are a mature group that seems genuinely interested in our project. 
 
 Work completed/not completed:
-Create initial world as a png {DONE} 
-Draw other worlds via GIMP/paint etc  {DONE} 
-Generate character on world/basic controls {DONE} 
-Link maps ingame {DONE} 
-Create basic menu functionality {DONE}
-Implement player stats {DONE}
+User story 1: As a player I want to see an initial world so that I can start playing the game {DONE} 
+User story 2: As a player I want to see other worlds in the filesystem, so I can see variety in the  game’s environments  {DONE} 
+User story 3: As a player I want my character to spawn on world with basic controls so I can play the game and move my character {DONE} 
+User story 4: As a player I want enter to other worlds to feel variety in the game’s environments
+{DONE} 
+User story 5: As a player I want to see basic menu functionality (main/pause) so that I can take a break from the game {DONE}
+User story 6: As a player I want to see my player stats so that I can see my character’s progress in game {DONE}
 
 Work completion rate:
 We finished every user story
@@ -28,5 +29,6 @@ Time Length: about 2 weeks.
 Story/Day = 6/14 = 0.42 stories per day. 
 
 Now a pointless chart, 
+https://docs.google.com/document/d/1fB_GudwaNR_2mrAMGlbI5IuTwXpotkTcXJLT2ZmJGeM/edit?usp=sharing
 
 (BURN UP CHART POSTED IN GOOGLE DOC LINK ABOVE) 
