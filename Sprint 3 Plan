@@ -24,7 +24,7 @@ Create a boss class from the enemy class 			(4 hours)
 Create and spawn bosses on maps 				(5 hours) 
 Determine reward for killing a boss	 			(9 hours) 
 
-8 As a player I want to interact with NPCs, so I can buy potions and read dialogue
+8 As a player I want to interact with NPCs, so that I can pick up quests and read dialogue
 General dialogue and trigger side quests			(7 hours)
 Working shops						(3 hours)
 Acquire items from shops/chests 				(4 hours)
