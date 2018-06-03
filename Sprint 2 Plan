@@ -39,48 +39,14 @@ Inventory: 	Diego
 Mob spawn:	Jack
 Boundaries:	Axel / Alex
 
-
-
-
-
-
+Note: Requires UCSC email
 Initial Burnup Chart: 
+https://docs.google.com/document/d/113SYC65DJSsbaHUX_JLStvnXrqXhGt_chTdmYWicCaI/edit?usp=sharing 
 
 
 Initial scrum board: 
-User Stories
-To Do
-In Progress
-Done
-Boundaries
-Create boundary datasets for each map, 
-Create the switch cases for each map 
+https://docs.google.com/document/d/113SYC65DJSsbaHUX_JLStvnXrqXhGt_chTdmYWicCaI/edit?usp=sharing 
 
-Create boundary datasets for each map, 
-
-
-
-Inventory
-Move/drop items
-Have live health bar
-Items interact with player and stats (equip/ use items)
-
-Select/deselect slots
-
-
-
-Mob Spawns
-Player seeking mobs
-Damage and take damage
-Mob placement
-Create enemy objects
-Drop items
-
-Player seeking mobs
-Damage and take damage
-
-
-Create enemy objects
 
 
 
