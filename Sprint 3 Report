@@ -9,10 +9,9 @@ Actions to start doing: Devote more time to project development and unit test fr
 Actions to keep doing: Map design blueprints 
 
 Work completed/not completed:
-Basic quest implementation {DONE}
-Bosses added {DONE}
-NPCs interactions (DONE)
-
+As a player I want to be able to complete main and sides quests so that i can have more interaction in the game {DONE}
+As a player I want to see mini bosses added to maps because I want to have a challenge between fighting mobs and the final boss {DONE}
+As a player I want to interact with NPCs, so that I can pick up quests and read dialogue (DONE)
 
 
 Work completion rate:
