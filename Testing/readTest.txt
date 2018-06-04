@@ -1,0 +1,58 @@
+*{TESTING MOVEMENT} 
+a = 5
+a = 3
+w = 12
+w = 44
+s = 9
+*{DONE} 
+
+Tx = TRIAL X 
+
+====
+TEST1
+====
+
+{*GET TO HOUSE1FLIP} 
+W then D 
+('aC= ', 0, 'sC= ', 0, 'dC= ', 25, 'wC= ', 43, 'clk= ', 1) T1
+('aC= ', 0, 'sC= ', 0, 'dC= ', 25, 'wC= ', 41, 'clk= ', 1) T2 
+	PRINT MAP CHANGE
+
+{*LEAVE HOUSE1FLIP} 
+('aC= ', 0, 'sC= ', 0, 'dC= ', 0, 'wC= ', 16, 'clk= ', 1)
+	PRINT MAP CHANGE
+
+{*GET TO HOUSE1} 
+('aC= ', 68, 'sC= ', 0, 'dC= ', 0, 'wC= ', 0, 'clk= ', 1) T1
+('aC= ', 60, 'sC= ', 0, 'dC= ', 0, 'wC= ', 0, 'clk= ', 2) T2 
+	PRINT MAP CHANGE
+
+{*LEAVE HOUSE1} 
+('aC= ', 0, 'sC= ', 0, 'dC= ', 0, 'wC= ', 12, 'clk= ', 1) T1 
+('aC= ', 0, 'sC= ', 0, 'dC= ', 0, 'wC= ', 13, 'clk= ', 1) T2 
+	PRINT MAP CHANGE
+
+{*GET TO PATH2} 
+('aC= ', 0, 'sC= ', 40, 'dC= ', 29, 'wC= ', 0, 'clk= ', 0) T1
+('aC= ', 0, 'sC= ', 39, 'dC= ', 29, 'wC= ', 0, 'clk= ', 0) T2
+
+{*GET TO HOMETOWN}
+('aC= ', 0, 'sC= ', 0, 'dC= ', 0, 'wC= ', 7, 'clk= ', 0)
+	PRINT MAP CHANGE
+
+{*GET TO PATH2} 
+('aC= ', 0, 'sC= ', 7, 'dC= ', 0, 'wC= ', 0, 'clk= ', 1)
+	PRINT MAP CHANGE
+
+
+{*TEST DEATH} 
+('aC= ', 25, 'sC= ', 0, 'dC= ', 0, 'wC= ', 0, 'clk= ', 0)
+
+{*DONE}
+
+====================================================
+
+{*GET TO HOUSE1FLIP} 
+('aC= ', 0, 'sC= ', 0, 'dC= ', 27, 'wC= ', 47, 'clk= ', 1) T1
+('aC= ', 0, 'sC= ', 0, 'dC= ', 23, 'wC= ', 43, 'clk= ', 0) T2 
+	PRINT COLLISION 
