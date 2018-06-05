@@ -6,7 +6,7 @@ The script is known to crash if you alt-tab or switch to another window midrun.
 The other files in this directory (/testing) are extra
 
 
-There are 8 tests included in BoyoTest.txt. Since this is a live game, the unit testing is slightly different than other types of programs as game makers generally rely on player driven testing. We created a script that runs through some basic functions of the game as a player would. Although it works, it’s also very time consuming to create these types of tests and they reach diminishing returns quickly based on testing complexity. . 
+There are 8 tests included in BoyoTest.txt. Since this is a live game, the unit testing is slightly different than other types of programs as game makers generally rely on player driven testing. We created a script that runs through some basic functions of the game as a player would. Although it works, it’s also very time consuming to create these types of tests and they reach diminishing returns quickly based on testing complexity. 
 
 Equivalence Classes: 
 All map changes are equivalent 
