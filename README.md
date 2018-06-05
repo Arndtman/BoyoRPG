@@ -1,5 +1,7 @@
 # BoyoRPG
 
+Most up-to-date version: 042
+
 These files CURRENTLY require PYGAME module installed and recommend PYTHON 3.x. 
 
 To Install PYGAME: 
