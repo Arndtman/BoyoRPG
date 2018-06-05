@@ -16,7 +16,7 @@ These are not tested with any other versions of python.
 
 To play, open a version (i.e 042 folder) and run BoyoRPG.py
 
-ART CREDITS WILL BE GIVEN ON FINAL RELEASE!
+ART CREDITS LISTED IN "Credits.txt"
 
 Patches are in ascending order. Look for the most up to date patch/version. 
 
