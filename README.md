@@ -54,3 +54,12 @@ PATCH-036
 Added BossTest for the (current) final boss, different music for different maps, and modified existing maps. 
 *Quests/NPC interactions were backlogged to sprint 4 due to not meeting full done criteria (Framework is in place however)*
 
+
+===SPRINT 4=== (RELEASE 1)
+
+PATCH-042
+Finalized quest mechanics: killQuests, findQuests, and destinationQuests added. Quests give items on completion. 
+NPC's are also finalized and spawn/despawn correctly. They also display their dialogue on screen and give quests. 
+Added quest log to player paused menu. 
+Added modifiable player stats based off equipped items. These stats are implemented on enemy mob/boss interactions. 
+Added 3 boss phase arena mode in sunkenChapel. 
