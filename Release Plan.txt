@@ -3,7 +3,10 @@ Doc Link: https://docs.google.com/document/d/1Q301I9xgtmivoTK8NGSsRyVOrCd5cXnQXY
 
 Heading: Release Plan of BoyoRPG for Gold Team. This is release one. Release date is June 8. 
 
-High level goals: Develop an aesthetically acceptable RPG written in Python. For release 1 (at the end of sprint 4) we want to be able to generate a world and to be able to enter/exit worlds. After we want to include boundaries on the world's along with interactions. Next we want to develop some sort of quest style system. Finally we want to develop a final boss fight.
+High level goals: Develop an aesthetically acceptable RPG written in Python. 
+For release 1 (at the end of sprint 4) we want to be able to generate a world and to be able to enter/exit worlds. 
+After we want to include boundaries on the world's along with interactions. 
+Next we want to develop some sort of quest style system. Finally we want to develop a final boss fight.
 
 User Stories: 
 As a player I want to see an initial world so that I can start playing the game
