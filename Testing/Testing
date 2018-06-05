@@ -1,0 +1,175 @@
+
+(Requires UCSC email) 
+Doc Link with Formatting:
+https://docs.google.com/document/d/1rFQ3y61r52xaccVHzNzZSSpcXXvXbxbesXwNmK71DgI/edit?usp=sharing
+
+Unit Tests: https://github.com/Arndtman/BoyoRPG/Testing
+
+There are 8 tests included in BoyoTest.txt. Since this is a live game, the unit testing is slightly different than other types of programs as game makers generally rely on player driven testing. We created a script that runs through some basic functions of the game as a player would. Although it works, it’s also very time consuming to create these types of tests and they reach diminishing returns quickly based on testing complexity. 
+
+Equivalence Classes: 
+All map changes are equivalent 
+All EnemyTest.Mob (de)spawns, collisions with player, and damages are equivalent
+All boundary generation, preservation, maintenance, and detections are equivalent 
+
+Test Module: BoyoTest.txt
+Tests 1 through 8 all test the following cases: 
+Player Spawn
+Map Changes
+Player X,Y movement
+Player X,Y animation (although outdated animation it still sufficiently demonstrates it)
+Boundary Generation, Preservation, and Maintenance 
+
+Tests 2 and 4 extend the prior equivalence classes and test: 
+Boundary Detection 
+
+Tests 5 through 8 all test: 
+EnemyTest.Mob Spawns
+EnemyTest.Mob Despawns
+EnemyTest.Mob player seeking
+EnemyTest.Mob animations
+EnemyTest.Mob collision/damage to player 
+BoyoRPG game over and restart 
+
+
+System Test Scenarios
+	User stories from Sprint 1: 
+As a player I want to see an initial world so that I can start playing the game
+
+As a player I want my character to spawn on world with basic controls so I can play the game and move my character
+
+As a player I want to see other worlds in the filesystem, so I can see variety in the  game’s environments
+
+As a player I want enter to other worlds to feel variety in the game’s environments
+
+As a player I want to see my player stats so that I can see my character’s progress in game
+
+	Scenario:
+Start BoyoRPG.py. Click “Play Beta” Button
+User should see a map of the hometown as well as their knight character on the screen.
+User should see knight character’s health bar on the bottom right part of the screen along with defense and damage
+Press w, a, d, or s keys
+User should see their knight player move up, left, down, or right across the screen respectively. 
+Press w, a, s, d to have knight character follow the road to the bottom of the screen until it goes off screen
+User should see their knight player load into another world
+
+User stories from Sprint 1:
+ 	As a player I want to see basic menu functionality (main/pause) so that I can take a break from the game
+
+Scenario:
+Start BoyoRPG.py. Click “Play Beta” Button
+Press “p” key 
+User should see the game stop with the following on their screen. The words “paused” in bold letters on the top of their screen. Two buttons, one titled “unpause” and the other titled “quit”
+Pressing the “unpause” button unfreezes the game where it left off
+Pressing the “quit” button should bring the user back to the main menu screen
+
+User stories from Sprint 2:
+
+	As a player I want to have defined and implemented boundaries for every map so that my movements are constricted to certain paths
+
+Scenario:
+
+Start BoyoRPG.py. Click “Play Beta” Button
+User should see their map load with blue boxes around buildings and obstacles on the map as well as a red box around their knight character
+Press w, a, d, or s keys until the red knight character box meets a blue boundary box
+Users should see their character unable to enter pass through the blue barriers.
+
+
+User stories from Sprint 2:
+
+	As a player I want to see established mob spawns for every map so that I can have something to fight for every map
+
+Scenario:
+
+Start BoyoRPG.py. Click “Play Beta” Button
+Press w, a, d, or s keys until the character has left the hometown map
+In the next map, the user should see two new sprites, enemies, with small health bars over their heads as well as black boundary boxes around them, much like the knight. The enemies should start moving toward their character. If the enemies reach the knight’s red boundary box, the knight takes damage.
+Left clicking the mouse causes the knight to attack
+Users should see the health bars of the enemies deplete whenever the knight lands a strike on them. Upon having no health, the enemy disappears.
+Users should see their health deplete if the enemies collide with the knight’s boundaries and the knight does not attack. Upon having no health, the player is taken to a “Game Over” screen. 
+
+User stories from Sprint 2:
+
+	As a player I want to have a modifiable player inventory so that I can pick and choose my armor as well as use items
+
+Scenario:
+
+Start BoyoRPG.py. Click “Play Beta” Button
+Press “p” key 
+Users should be brought to a blue screen that is the inventory. They should see their knight character with their current health bar as well as two slots showing their currently equipped gear. There are “save”, “exit”, and “back” buttons below the equipment slots. They should also see a two rows of ten buttons, each button holding an icon of an item in their inventory
+Press the “exit” button and users will be taken back to the main menu
+Press the “back” button and the game will be unpaused
+Press an inventory item button and one of two things will happen. If there is nothing in that slot, nothing will happen. If there is an item in that slot, then three more buttons should appear on the inventory. The buttons are marked “drop”, “use/equip”, and “swap”
+Press the “drop” button, and users should see the selected item be deleted from their inventory
+Press the “use/equip” button and one of three things will happen. If the item is consumable, like a potion, then it’s affects take place and it is removed from the inventory. If the item is equippable, like armor, and there is an available slot in the player’s equipment, then the item takes that available slot. If the item is equippable and there is not open equipment slot available, then nothing happens. If the item is an equippable and currently occupies an equipment slot, then that item is removed from the equipment slot.
+Press the “swap” button and if users have two items currently selected, then their positions in the inventory are swapped. If any other amount of items are selected, then nothing happens.
+
+User stories from Sprint 3: 
+
+	As a player I want to be able to complete main and sides quests so that i can have more interaction in the game
+
+Scenario:
+
+Start BoyoRPG.py. Click “Play Beta” Button
+Talk to npcs
+Check inventory
+Users should see quests pop up in a box under their current inventory
+Upon completing the quests, they should disappear from the inventory
+
+User stories from Sprint 3:
+
+	As a player I want to see mini bosses added to maps because I want to have a challenge between fighting mobs and the final boss
+
+Scenario:
+
+Start BoyoRPG.py. Click “Play Beta” Button
+Enter either the fire mountain or sunken chapel maps. Enter the blue portals at the end of those maps
+Users should see a large sprite with a big health bar above it. This sprite will summon smaller mobs as well as falling rocks. The smaller mobs are killable by the player as well as the large sprite (they can also kill the player). Pretty much the same rules apply to the bosses as they would with any enemy
+
+User stories from Sprint 3:
+
+	As a player I want to interact with NPCs, so that I can pick up quests and read dialogue
+
+Scenario:
+
+Start BoyoRPG.py. Click “Play Beta” Button
+Enter a house map (either house1, house1flip, or house2)
+Users should see npc images within these houses. Npcs have black border boxes around them
+Approach an npc so that the player’s boundary box collides or overlaps with the npc’s boundaries
+Users should see their character pass over the npc, as well as white text appearing on their screen. This text is npc dialogue. This interaction also allows quests to be delivered to the player. Walking out of the collision space allows the text to disappear
+
+	User stories from Sprint 4:
+
+		As a player I want to see finalized and developed quests, so I can acquire items
+
+	Scenario:
+
+Start BoyoRPG.py. Click “Play Beta” Button
+Acquire quests from npcs
+Finish quests
+Check inventory
+Users should see quests that have rewards add items to their inventory
+
+	User stories from Sprint 4:
+
+As a player I want to interact with NPC’s, so I can pick up quests	
+
+	Scenario:
+
+Start BoyoRPG.py. Click “Play Beta” Button
+Talk to npcs
+Check inventory
+Npcs that give quests will add quests to the player. These quests will be viewable in the inventory under the area showing the player’s current inventory 
+
+User stories from Sprint 4:
+
+	As a player I potentially want an endgame Area mode so we can have endgame content
+
+	Scenario:
+
+Start BoyoRPG.py. Click “Play Beta” Button
+Enter the Sunken Chapel map.
+Enter the blue portal at the end of the map
+Users should see one of the two bosses, as well as a number of enemies spawn on their screen. Users must fight for their lives to eliminate all enemies in the arena. 
+
+
