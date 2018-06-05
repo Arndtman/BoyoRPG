@@ -1,0 +1,20 @@
+
+(Requires UCSC email)
+Doc Link with Formatting: 
+https://docs.google.com/document/d/1H2DmBooMcHQgWBfnMZB6k3_RwNeCMcjdINvtljeCEmM/edit?usp=sharing
+
+Working Prototype Template - CMPS 115 – Software Methodology 
+
+• Heading: Working Prototype Known Problems Report", BoyoRPG, Gold Team, 6/4/2018. 
+
+• List of functions not working correctly (can lose up to 20 points) List all problems with your software that your team has identified. Include in the item entry the input/action that causes failure; location of fault (if known); possible action for removal of fault.
+
+BoyoRPG.selected() does not correctly highlight selected items in player inventory.
+BoyoRPG.paused() has minor interaction bugs since the selected() function is buggy. This means that the drop/equip/swap/etc functions work, but currently requires the console to see which items are selected. 
+BoyoRPG.colorFix() will very rarely crash the game when it is being passed image objects to color correct. 
+MapLinks.checkMapCollisions() is built from a database of boundaries. This will not cause crashes, since it’s just boundaries that are slightly off. To extend this, some boundaries may clip over others on creation to create a “third, pseudo boundary” that can cause the player to get stuck ingame momentarily such as running diagonally against a wall made of two boundary rectangles. . 
+PlayerTest.Sprite.healthBar() stat text can overlap with NPCTest.NPC.talk() text. Again, this will not crash since it’s just a visual bug. 
+EnemyTest.DisplayMob() can cause the orc movement animation to glitch if the player is directly above/below. This is due to the way the orc’s EnemyTest.seek() to a player. 
+
+
+
