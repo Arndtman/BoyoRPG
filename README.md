@@ -4,6 +4,7 @@
 # Most up-to-date version: 042
 
 And Yes, this hub uses non-standard git hierarchical practices. 
+The reason behind this is simple: we wanted to pull the entire repo and see the changes from version to version. 
 
 These files CURRENTLY require PYGAME module installed and recommend PYTHON 3.x. 
 
