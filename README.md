@@ -3,6 +3,8 @@
 
 # Most up-to-date version: 042
 
+And Yes, this hub uses non-standard git hierarchical practices. 
+
 These files CURRENTLY require PYGAME module installed and recommend PYTHON 3.x. 
 
 To Install PYGAME: 
