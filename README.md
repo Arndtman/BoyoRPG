@@ -1,4 +1,4 @@
-# BoyoRPG- Hawk-Eye RPG Written in Python
+# BoyoRPG: Hawk-Eye RPG Written in Python
 # Grade Recieved: A+ from UCSC CS115: Software Engineering with Prof. Richard Jullig
 
 # Most up-to-date version: 042
