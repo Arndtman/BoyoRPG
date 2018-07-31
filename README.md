@@ -1,6 +1,8 @@
 # BoyoRPG: Hawk-Eye RPG Written in Python
 # Grade Recieved: A+ from UCSC CS115: Software Engineering with Prof. Richard Jullig
 
+Open-World, Live-Action Combat, Multi-Phase Bosses, Questing, Friendly/Enemy NPCs, Modifiable Inventory, Modifiable Player Stats and more! 
+
 # Most up-to-date version: 042
 
 And Yes, this hub uses non-standard git hierarchical practices. 
