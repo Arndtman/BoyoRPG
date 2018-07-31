@@ -1,7 +1,7 @@
 # BoyoRPG
 # Grade Recieved: A+ from UCSC CS115: Software Engineering with Prof. Richard Jullig
 
-Most up-to-date version: 042
+# Most up-to-date version: 042
 
 These files CURRENTLY require PYGAME module installed and recommend PYTHON 3.x. 
 
