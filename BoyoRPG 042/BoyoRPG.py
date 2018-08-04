@@ -17,9 +17,6 @@ import MapLinks; reload(MapLinks)
 #
 #
 ###To Do####
-#World Interaction. 
-#Implement mobs. 
-#Combat.
 #
 #################################################
 
