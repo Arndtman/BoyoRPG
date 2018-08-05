@@ -11,15 +11,13 @@ Unit Test Script Also Included!
 And Yes, this hub uses non-standard git hierarchical practices. 
 The reason behind this is simple: we wanted to pull the entire repo and see the changes from version to version. 
 
-These files CURRENTLY require PYGAME module installed and recommend PYTHON 3.x. 
+These files CURRENTLY require PYGAME module installed and recommend PYTHON 3.x and are not tested with any other versions. 
 
 To Install PYGAME: 
 
 python3 -m pip install -U pygame --user
 
 Final editions will NOT require pygame NOR python. 
-
-These are not tested with any other versions of python. 
 
 To play, open a version (i.e 042 folder) and run BoyoRPG.py
 
