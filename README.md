@@ -17,7 +17,7 @@ To Install PYGAME:
 
 python3 -m pip install -U pygame --user
 
-Final edition will NOT require pygame NOR python. 
+The finalized version does not require pygame nor python. 
 
 To play, open a version (i.e 042 folder) and run BoyoRPG.py
 
