@@ -17,8 +17,6 @@ To Install PYGAME:
 
 python3 -m pip install -U pygame --user
 
-There are some bugs because it is currently in development. 
-
 Final editions will NOT require pygame NOR python. 
 
 These are not tested with any other versions of python. 
