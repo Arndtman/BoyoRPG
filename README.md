@@ -1,6 +1,6 @@
 # BoyoRPG: Hawk-Eye RPG Written in Python
 # Grade Recieved: A+ from UCSC CS115: Software Engineering with Prof. Richard Jullig
-
+# Video: https://youtu.be/ij1KqLh8sN0
 BoyoRPG is an Open-World, Live-Action Combat Game with Multi-Phase Bosses, Questing, Friendly/Enemy NPCs, Modifiable Inventory, Modifiable Player Stats and more! 
 
 Unit Test Script Also Included!
